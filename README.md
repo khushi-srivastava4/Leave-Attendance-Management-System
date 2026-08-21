@@ -719,8 +719,13 @@ Salary Reconciliation
 
 **Khushi Srivastava**
 
-Human Resource Manager | Gopali Youth Welfare Society | IIT Kharagpur
-Built as a live HR workflow automation project for Jagriti Vidya Mandir.
+**Human Resource Manager**
+
+**Gopali Youth Welfare Society**
+
+**IIT Kharagpur**
+
+Built as a live HR workflow automation project for **Jagriti Vidya Mandir**.
 
 ---
 
